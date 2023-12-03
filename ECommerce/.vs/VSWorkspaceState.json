@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce.Api.Products.Tests",
+    "\\ECommerce.Api.Search",
+    "\\ECommerce.Api.Search\\Services"
+  ],
+  "SelectedNode": "\\ECommerce.Api.Products.Tests\\ProductsServiceTest.cs",
+  "PreviewInSolutionExplorer": false
+}
